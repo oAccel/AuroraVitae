@@ -4,7 +4,7 @@ const ConfigManager = require('./configmanager')
 
 // Old WesterosCraft url.
 // exports.REMOTE_DISTRO_URL = 'http://mc.westeroscraft.com/WesterosCraftLauncher/distribution.json'
-exports.REMOTE_DISTRO_URL = 'http://eua4.xmxcloud.net:25624/nebula/distribution.json'
+exports.REMOTE_DISTRO_URL = 'https://github.com/oAccel/AuroraLauncher/blob/main/nebula/nebulaworkspace/distribution.json'
 
 const api = new DistributionAPI(
     ConfigManager.getLauncherDirectory(),
