@@ -15,6 +15,6 @@ sourceGithubLink = "https://github.com/oAccel/AuroraVitae"
 supportLink = "#"
 
 [ejs.welcome]
-welcomeHeader = "WELCOME TO AVSMP"
-welcomeDescription = "#."
-welcomeDescCTA = "You are just a few clicks away from AVSMP."
+welcomeHeader = "Seja bem-vindo(a) novo Assente!"
+welcomeDescription = "É com muito prazer que apresentamos o Aurora Vitae Launcher, disponível somente aos dignos de coração"
+welcomeDescCTA = "Desejar embarcar nessa história?"
