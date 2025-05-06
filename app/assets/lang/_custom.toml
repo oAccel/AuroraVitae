@@ -1,10 +1,10 @@
 # Custom Language File for Launcher Customizer
 
 [ejs.app]
-title = "Helios Launcher"
+title = "Aurora Vitae Launcher"
 
 [ejs.landing]
-mediaGitHubURL = "https://www.tiktok.com/@auroravitaesmp"
+mediaGitHubURL = "#"
 mediaXURL = "https://x.com/AuroraVitaeSMP"
 mediaInstagramURL = "https://www.tiktok.com/@auroravitaesmp"
 mediaYouTubeURL = "https://www.youtube.com/@AuroraVitaeSMP"
