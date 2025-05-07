@@ -1,0 +1,7 @@
+npm i
+
+troque os mods
+
+npm start -- generate distro
+
+muda o distro no GitHub
